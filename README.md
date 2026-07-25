@@ -3,15 +3,15 @@
 ## Candidate Details
 
 * **Full Name:** Abhijeet Kishor
-* **Intern ID:** [Your Intern ID]
+* **Intern ID:** N/A
 * **Email Address:** [abhijeetkishor24@gmail.com](mailto:abhijeetkishor24@gmail.com)
-* **GitHub Username:** [Your GitHub Username]
+* **GitHub Username:** Kishor-abhijeet
 
 ## Project Details
 
 * **Selected Website:** The Kalyani School
 * **Original Website:** https://www.thekalyanischool.com/
-* **Live Demo Link:** [Your Deployed Website URL]
+* **Live Demo Link:** https://dettroin-int-abhijeet-website.vercel.app/
 
 ## Technologies Used
 
